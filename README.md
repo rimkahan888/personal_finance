@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Personal Finance Tracker
 
 A comprehensive personal finance management application built with Laravel 11, featuring user authentication, transaction management, and financial dashboard with real-time calculations.
@@ -59,3 +60,6 @@ A comprehensive personal finance management application built with Laravel 11, f
    git clone <repository-url>
    cd project1
    ```
+=======
+# personal_finance
+>>>>>>> 4f6979f3c4bec8c9ae0587878d99d38ea7a776ba

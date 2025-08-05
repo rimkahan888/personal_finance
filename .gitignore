@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *.log
 .DS_Store
 .env
@@ -22,3 +23,10 @@
 Homestead.json
 Homestead.yaml
 Thumbs.db
+=======
+# Object file
+*.o
+
+# Ada Library Information
+*.ali
+>>>>>>> 4f6979f3c4bec8c9ae0587878d99d38ea7a776ba
